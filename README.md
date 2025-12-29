@@ -38,5 +38,7 @@ https://www.microsoft.com/download/details.aspx?id=49117
 
 ## 🔒 Accounts
 - Microsoft Account
-[- GitHub Account
-https://www.microsoft.com/download/details.aspx?id=49117](https://config.office.com/)
+
+https://config.office.com/
+[[[- GitHub Account
+https://www.microsoft.com/download/details.aspx?id=49117](https://config.office.com/)](https://config.office.com/)](https://config.office.com/)
