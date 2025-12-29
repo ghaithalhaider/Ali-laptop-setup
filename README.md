@@ -17,7 +17,7 @@ Custom: Install Windows only (advanced)
   https://www.microsoft.com/software-download/windows10
 - Rufus:
   https://rufus.ie
-
+https://www.microsoft.com/download/details.aspx?id=49117
 ---
 
 ## 🧩 Drivers
