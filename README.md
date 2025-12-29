@@ -5,7 +5,11 @@
 - OS: Windows 10 Home
 - SSD: 256GB
 - RAM: 4GB / 4GB
-
+ESC
+Startup Menu
+Boot Device Options
+USB (UEFI)
+Custom: Install Windows only (advanced)
 ---
 
 ## 🪟 Windows
