@@ -4,7 +4,7 @@
 - Model: HP EliteBook 8470p
 - OS: Windows 10 Home
 - SSD: 256GB
-- RAM: 8GB / 16GB
+- RAM: 4GB / 4GB
 
 ---
 
