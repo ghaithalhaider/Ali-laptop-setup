@@ -19,7 +19,7 @@
 ## 🧩 Drivers
 - HP Official Drivers: HP Support – EliteBook 8470p
  [ https://support.hp.com](https://support.hp.com/emea_middle_east-ar/drivers/laptops)
-
+booster : https://driver-booster-free.en.softonic.com/
 ---
 
 ## 📦 Essential Programs
