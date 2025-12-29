@@ -24,27 +24,13 @@
 
 ## 📦 Essential Programs
 - Google Chrome: https://www.google.com/chrome
-- VLC: https://www.videolan.org
 - WinRAR: https://www.rarlab.com
-- Notion: https://www.notion.so
 
 ---
 
-## 🧮 Microsoft Office
-- Office Official:
-  https://www.office.com
-- Office Deployment Tool:
-  https://www.microsoft.com/download/details.aspx?id=49117
 
 ---
 
-## ⚙️ Useful Notes
-- BIOS Version: F.74 (No update needed)
-- SSD Partition:
-  - C: 120GB
-  - D: Remaining
-
----
 
 ## 🔒 Accounts
 - Microsoft Account
